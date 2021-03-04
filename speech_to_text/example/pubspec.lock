@@ -85,7 +85,7 @@ packages:
       name: json_annotation
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "3.0.1"
+    version: "4.0.0"
   matcher:
     dependency: transitive
     description:
@@ -120,7 +120,7 @@ packages:
       name: pedantic
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.9.2"
+    version: "1.11.0"
   plugin_platform_interface:
     dependency: transitive
     description:
